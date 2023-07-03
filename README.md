@@ -1,4 +1,4 @@
-# News-Website using HTML, CSS & JavaScript.
+# News Website using HTML, CSS & JavaScript.
 News Website Using News API.
 
 API Used: https://newsapi.org/
